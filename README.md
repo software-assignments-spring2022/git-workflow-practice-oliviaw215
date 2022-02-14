@@ -1,5 +1,5 @@
-# Full-stack Development 
-**Link: https://bootcamp.learn.utoronto.ca/blog/what-is-a-full-stack-developer/#:~:text=Full%20stack%20technology%20refers%20to,can%20see%20and%20interact%20with. 
+## Full-stack Development 
+**Link:** https://bootcamp.learn.utoronto.ca/blog/what-is-a-full-stack-developer/#:~:text=Full%20stack%20technology%20refers%20to,can%20see%20and%20interact%20with. 
 
 Full stack technology refers to the entire depth of a computer system application, and full stack developers straddle two separate web development domains: the front end and the back end. The front end includes everything that a client, or site viewer, can see and interact with.
 
